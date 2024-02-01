@@ -5,5 +5,5 @@
 
 
 
-<video src="https://github.com/markusbayer109/video_test/assets/85880711/3050ddae-82e3-4e52-8830-09cb032b9def />
+<video src="https://github.com/markusbayer109/video_test/assets/85880711/3050ddae-82e3-4e52-8830-09cb032b9def width="300" />
 
